@@ -1,4 +1,4 @@
-# Eagle1man.
+# Eagle1man
  Мой профиль на GitHub.
 ### Hey👋, I'm Eagle1man!
 
