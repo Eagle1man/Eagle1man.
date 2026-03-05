@@ -1,6 +1,6 @@
-# Eagle1man
+# Eagle1man.
  Мой профиль на GitHub.
-### Hey👋, I'm Eagle1man!
+### Hey👋, I'm Eagle1man.!
 
 <p align="left">
 <a href="https://github.com/Eagle1man">
