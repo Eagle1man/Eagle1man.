@@ -12,7 +12,7 @@
 </p>
 
 Glad to see you here!  
-I studied to be a backend developer, but then I realized that my journey into Data Science.
+I studied to  Data Science.
 
 ---
 
