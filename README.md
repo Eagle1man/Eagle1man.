@@ -12,7 +12,7 @@
 </p>
 
 Glad to see you here!  
-I studied to  Data Science in SENATOROVAI.
+I study to  Data Science in SENATOROVAI.
 
 ---
 
