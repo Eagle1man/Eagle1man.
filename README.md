@@ -12,7 +12,6 @@
 </p>
 
 Glad to see you here!  
-I study to  Data Science in SENATOROVAI.
 
 ---
 
@@ -44,5 +43,3 @@ I study to  Data Science in SENATOROVAI.
 
 ---
 
-### Fun fact:
-🤔 *...нужно придумать что-то смешное!*
